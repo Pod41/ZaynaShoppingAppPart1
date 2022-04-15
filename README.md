@@ -60,15 +60,15 @@ Zayna is a shopping app similar to Amazon but using Parse as its backend.
 * Profile -> request to a server to send back currentuser info along with thier life-time orders
 
 ## Wireframes
-<img src="https://github.com/Pod41/Zayna/blob/main/Untitled%20Diagram.jpg" width=600>
+<img src="https://github.com/Pod41/ZaynaShoppingAppPart1/blob/master/Files/Untitled%20Diagram.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
-<img src="https://github.com/Pod41/Zayna/blob/main/9c0f69e95e9f4199a275d1cf89e9a2fe-0001.jpg" width=300><img src="https://github.com/Pod41/Zayna/blob/main/9c0f69e95e9f4199a275d1cf89e9a2fe-0002.jpg" width=300>
-<img src="https://github.com/Pod41/Zayna/blob/main/9c0f69e95e9f4199a275d1cf89e9a2fe-0003.jpg" width=300><img src="https://github.com/Pod41/Zayna/blob/main/9c0f69e95e9f4199a275d1cf89e9a2fe-0004.jpg" width=300>
-<img src="https://github.com/Pod41/Zayna/blob/main/9c0f69e95e9f4199a275d1cf89e9a2fe-0005.jpg" width=300>
+<img src="https://github.com/Pod41/ZaynaShoppingAppPart1/blob/master/Files/9c0f69e95e9f4199a275d1cf89e9a2fe-0001.jpg" width=300><img src=https://github.com/Pod41/ZaynaShoppingAppPart1/blob/master/Files/9c0f69e95e9f4199a275d1cf89e9a2fe-0002.jpg" width=300>
+<img src="hhttps://github.com/Pod41/ZaynaShoppingAppPart1/blob/master/Files/9c0f69e95e9f4199a275d1cf89e9a2fe-0003.jpg" width=300><img src="https://github.com/Pod41/ZaynaShoppingAppPart1/blob/master/Files/9c0f69e95e9f4199a275d1cf89e9a2fe-0004.jpg" width=300>
+<img src="https://github.com/Pod41/ZaynaShoppingAppPart1/blob/master/Files/9c0f69e95e9f4199a275d1cf89e9a2fe-0005.jpg" width=300>
 
 ### [BONUS] Interactive Prototype
-<img src="https://github.com/Pod41/Zayna/blob/main/Zayna.gif" width=300>
+<img src="https://github.com/Pod41/ZaynaShoppingAppPart1/blob/master/Files/Zayna.gif" width=300>
 
 ## Schema 
 [This section will be completed in Unit 9]
