@@ -25,10 +25,10 @@ Zayna is a shopping app similar to Amazon but using Parse as its backend.
 
 **Required Must-have Stories**
 
-[x] Customers can log in thier account
-[x] Customers can see a list of available clooth for sale
-[ ] Customer can go to checkout and place an online order.
-[ ] Customer can see thier profile which includes information such as address, life-time orders and so on.
+- [x] Customers can log in thier account
+- [ ] Customers can see a list of available clooth for sale
+- [ ] Customer can go to checkout and place an online order.
+- [ ] Customer can see thier profile which includes information such as address, life-time orders and so on.
 
 **Optional Nice-to-have Stories**
 
