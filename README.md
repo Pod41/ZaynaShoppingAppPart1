@@ -12,7 +12,7 @@ Zayna is a shopping app similar to Amazon but using Parse as its backend.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:** Shopping
+- **Category:** Shopping/E-Commerce
 - **Mobile:** This app would be primarily developed for mobile but would perhaps be just as viable on a computer, such as Ebay or other similar apps. Functionality wouldn’t be limited to mobile devices, however mobile version could potentially have more features.
 - **Story:**  displays a list of available piece of cloth in the shopping app. User can choose whichever they want and place an online order.
 - **Market:** Female adult-age group
@@ -25,7 +25,12 @@ Zayna is a shopping app similar to Amazon but using Parse as its backend.
 
 **Required Must-have Stories**
 
-- [x] Customers can log in thier account
+- [x] Customers can log in their account
+   - [x] create an icon for the app
+   - [x] create a splash screen and wait for 20 sec each time the app starts
+   - [x] create a server and user table to create an account or get access to an existing account
+   - [x] create UI for login activity.
+   - [x] connect the app to the server and user table
 - [ ] Customers can see a list of available clooth for sale
 - [ ] Customer can go to checkout and place an online order.
 - [ ] Customer can see thier profile which includes information such as address, life-time orders and so on.
