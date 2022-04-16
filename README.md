@@ -31,6 +31,7 @@ Zayna is a shopping app similar to Amazon but using Parse as its backend.
    - [x] create a server and user table to create an account or get access to an existing account
    - [x] create UI for login activity.
    - [x] connect the app to the server and user table
+   - [x] <img src="https://github.com/Pod41/ZaynaShoppingAppPart1/blob/master/Files/Zayna-Login-Activity.gif" width=300>
 - [ ] Customers can see a list of available clooth for sale
 - [ ] Customer can go to checkout and place an online order.
 - [ ] Customer can see thier profile which includes information such as address, life-time orders and so on.
